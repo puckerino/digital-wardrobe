@@ -1,22 +1,22 @@
 
 [
   {
-    "id": "makeup-001",
-    "name": "Soft grey makeup look",
-    "category": "makeup",
-    "subtype": "full-look",
+  "id": "makeup-001",
 
-    "image": "assets/images/makeup/makeup-001.png",
-    "thumbnail": "assets/images/makeup/makeup-001-thumb.webp",
+  "name": "Soft grey look",
 
-    "palette": {
-      "base": {
-        "name": "grey",
-        "hex": "#BBB5BA",
-        "weight": 100
-      },
-      "accents": [],
-      "pattern": "solid"
-    }
-  }
+  "image": "assets/images/makeup/makeup-001.webp",
+
+  "palette": {
+    "base": {
+      "name": "grey",
+      "hex": "#BBB5BA",
+      "weight": 100
+    },
+    "accents": [],
+    "pattern": "solid"
+  },
+
+  "imageScale": 1
+}
 ]
